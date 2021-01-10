@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hello bro and sis!  , I 'm Ewerton and it's my GitHub profile👋
+I'm a Java Student and a lover by code and development.
 
-<!--
-**ewertoncmiranda/ewertoncmiranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mine prefered stack's are :
 
-Here are some ideas to get you started:
+1. - Java
+1. - Spring Framework
+2. - Android 
+3. - Bootstrap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+That's some fact's :
+
+ - :books: i’m currently studing Spring Boot and Java.
+ - :computer: i consider me a *back end developer* . 
+ - :scream: but i try some *front end code* .
+ - :telescope: i'm searching a job like a *Java Dev Junior*.
+ 
+ 
+  
