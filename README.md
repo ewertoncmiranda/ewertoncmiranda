@@ -1,6 +1,6 @@
-## Hello bro , Hello sis , HELLO WOLRD! 
+## Hello bro , Hello sis , HELLO WOLRD :earth_americas: :earth_asia: :earth_africa:! 
 
-### I 'm Ewerton and be welcome at my GitHub profile 👋
+### I 'm Ewerton and be welcome at my GitHub profile :octocat:
 ##### I'm a Java Student and a lover by code and development.
 
 ###### Mine prefered stack's are :
@@ -17,5 +17,5 @@ That's some fact's :
  - :scream: but i try some *front end code* .
  - :telescope: i'm searching a job like a *Java Dev Junior*.
  
- 
+ ### Feel at home and let's code ! :computer:
   
