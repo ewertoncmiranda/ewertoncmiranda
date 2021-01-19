@@ -15,7 +15,7 @@ That's some fact's :
  - :books: i’m currently studing Spring Boot and Java.
  - :computer: i consider me a *back end developer* . 
  - :scream: but i try some *front end code* .
- - :telescope: i'm searching a job like a *Java Dev Junior*.
+ - :telescope: i just need a first challenge like a *Java Dev Junior*.
  
  ### Feel at home and let's code ! :computer:
   
