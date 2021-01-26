@@ -7,8 +7,9 @@
 
 1. - Java
 1. - Spring Framework
-2. - Android 
-3. - Bootstrap
+2. - JPA / HIBERNATE
+3. - MySQL
+
 
 That's some fact's :
 
